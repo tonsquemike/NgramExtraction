@@ -1,0 +1,1 @@
+java -jar out\artifacts\NgramExtraction_jar\NgramExtraction.jar -CONFIG config.txt

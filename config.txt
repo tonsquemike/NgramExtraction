@@ -1,0 +1,3 @@
+-IN D:\FormatoNGRAM\0000_FormatexDir\SALIDA
+-OUT D:\FormatoNGRAM\0000_FormatexDir\TRI
+-SIZE 3
