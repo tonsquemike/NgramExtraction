@@ -1,0 +1,8 @@
+Extract all n-grams in txt file
+-IN 	directory that contains txt files for n-gram extraction
+-OUT 	directory where n-grams will saved
+-SIZE	n-gram size
+
+
+Miguel Ángel García Calderón
+tonsquemike@outlook.com
